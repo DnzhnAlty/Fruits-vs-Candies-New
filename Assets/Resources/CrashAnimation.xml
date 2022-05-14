@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+
+<CrushEnemy>
+
+  <Enemy>
+    <EnemyName>Donut(Clone)</EnemyName>
+    <prefabLocation>CrushPrefabs/Donut_Parcalanmis</prefabLocation>
+  </Enemy>
+
+  <Enemy>
+    <EnemyName>Lolipop(Clone)</EnemyName>
+    <prefabLocation>CrushPrefabs/Lolipop_Parcalanmis</prefabLocation>
+  </Enemy>
+
+  <Enemy>
+    <EnemyName>Chocolate(Clone)</EnemyName>
+    <prefabLocation>CrushPrefabs/Chocolate_Parcalanmis</prefabLocation>
+  </Enemy>
+
+  <Enemy>
+    <EnemyName>IceCream(Clone)</EnemyName>
+    <prefabLocation>CrushPrefabs/Chocolate_Parcalanmis</prefabLocation>
+  </Enemy>
+
+
+</CrushEnemy>
+
